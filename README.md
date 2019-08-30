@@ -11,3 +11,9 @@ Fall, 2014
 
 5.3) Parking fee calculation
 
+### Lab 6: Iteration (WHILE and DO-WHILE)
+6.1 GPAX Calculation
+
+6.2 Get values from user until get negative value. Then, classify that time by condition.
+
+6.3 Get integer value and then, print each digit from the lowest unit to the highest unit.
