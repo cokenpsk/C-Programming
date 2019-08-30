@@ -39,4 +39,4 @@ Fall, 2014
 
 9.3 String extraction (get every value except vovel)
 
-### Lab 10: Iteration, array, and string
+### Lab 10: Iteration, arrays, and string
