@@ -24,3 +24,19 @@ Fall, 2014
 7.2 Get integer until get four positive values. Then, count the number of integer. 
 
 7.3 Interest rate calculation
+
+### Lab 8: Arrays
+8.1 Count members in array with condition
+
+8.2 Summation
+
+8.3 Find max and min values in array
+
+### Lab9: String
+9.1 String comparison
+
+9.2 String reverse for each two characters
+
+9.3 String extraction (get every value except vovel)
+
+### Lab10: Iteration, array, and string
