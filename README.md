@@ -32,11 +32,11 @@ Fall, 2014
 
 8.3 Find max and min values in array
 
-### Lab9: String
+### Lab 9: String
 9.1 String comparison
 
 9.2 String reverse for each two characters
 
 9.3 String extraction (get every value except vovel)
 
-### Lab10: Iteration, array, and string
+### Lab 10: Iteration, array, and string
