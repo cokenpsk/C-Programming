@@ -1,6 +1,6 @@
 [Project]
-FileName=5733682523_p2.dev
-Name=p2.c
+FileName=labRp2.dev
+Name=labRp2
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=5733682523_p2.c
+FileName=labRp2_5733682523.c
 CompileCpp=0
 Folder=
 Compile=1

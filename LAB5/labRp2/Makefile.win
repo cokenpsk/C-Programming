@@ -1,15 +1,15 @@
-# Project: lab5p1
+# Project: labRp2
 # Makefile created by Dev-C++ 5.6.3
 
 CPP      = g++.exe
 CC       = gcc.exe
 WINDRES  = windres.exe
-OBJ      = 5733682523_p1.o
-LINKOBJ  = 5733682523_p1.o
+OBJ      = labRp2_5733682523.o
+LINKOBJ  = labRp2_5733682523.o
 LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
 INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include"
 CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"
-BIN      = lab5p1.exe
+BIN      = labRp2.exe
 CXXFLAGS = $(CXXINCS) 
 CFLAGS   = $(INCS) 
 RM       = rm.exe -f
@@ -24,5 +24,5 @@ clean: clean-custom
 $(BIN): $(OBJ)
 	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
 
-5733682523_p1.o: 5733682523_p1.c
-	$(CC) -c 5733682523_p1.c -o 5733682523_p1.o $(CFLAGS)
+labRp2_5733682523.o: labRp2_5733682523.c
+	$(CC) -c labRp2_5733682523.c -o labRp2_5733682523.o $(CFLAGS)
