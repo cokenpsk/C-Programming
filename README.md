@@ -1,6 +1,6 @@
 # C-Programming
 Fall, 2014
-## Lab 1: Introduction
+##### Lab 1: Introduction
 ### Lab 2: Expression and Input
 ### Lab 3: Condition (IF and IF-ELSE)
 ### Lab 4: Condition 2 (SWITCH CASE)
