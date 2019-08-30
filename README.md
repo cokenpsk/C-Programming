@@ -17,3 +17,10 @@ Fall, 2014
 6.2 Get values from user until get negative value. Then, classify that time by condition.
 
 6.3 Get integer value and then, print each digit from the lowest unit to the highest unit.
+
+### Lab 7: Iteration (FOR loop)
+7.1 Expression Calculation
+
+7.2 Get integer until get four positive values. Then, count the number of integer. 
+
+7.3 Interest rate calculation
